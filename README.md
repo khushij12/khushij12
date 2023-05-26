@@ -1,6 +1,6 @@
 ### Hey there! 👋 
 
-I'm an enthusiastic frontend developer rocking it at True Sparrow! I thrive on diving deep into cutting-edge technologies, constantly exploring and experimenting with them. Frontend and backend development? Oh, I've got both areas covered like a boss! 🔭
+I'm an enthusiastic frontend developer. I thrive on diving deep into cutting-edge technologies, constantly exploring and experimenting with them. Frontend and backend development? Oh, I've got both areas covered like a boss! 🔭
 
 When it comes to competitive programming, I am in my element! C++ and Java are my trusty weapons of choice, and I've mastered the art of DSA. 💪
 
