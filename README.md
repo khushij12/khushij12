@@ -12,6 +12,7 @@ And here's a fun fact for you, even though I claim to have no fun facts: I'm not
 
 Cheers! 🥂
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=khushij12.khushij12)
 <!-- 
 https://www.webfx.com/tools/emoji-cheat-sheet/
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
